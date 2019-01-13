@@ -1,4 +1,7 @@
 {
     "html.format.indentHandlebars": true,
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "files.autoSave": "onFocusChange",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
